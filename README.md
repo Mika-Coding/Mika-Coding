@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="img/banner.svg" height="175px"/></a>
+https://github.com/Exortions/Exortions/raw/main/img/banner.svg
 
 <h1 align="center">Hey , I'm Mika</h1>
 <h3 align="center">a passionate developer looking to make the open-source community a better place</h3>
